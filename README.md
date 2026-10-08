@@ -224,10 +224,10 @@ Keep the repository **Private**. Do not share it with other groups.
 
 - **Dataset:** filtered extract (water_quality_site_summary.csv) from
   Environment and Climate Change Canada's National Long-term Water
-  Quality Monitoring Data
+  Quality Monitoring Data.
 - **Source and link:** "Saint Lawrence River Basin"
   https://data-donnees.az.ec.gc.ca/data/substances/monitor/national-long-term-water-quality-monitoring-data/?lang=en
-- **Collected by / citation:** Environment and Climate Change Canada
+- **Collected by / citation:** Environment and Climate Change Canada.
   Collected and filtered on 2026/09/23
 - **Licence or terms of use:**
   Open Government Licence - Canada: Acknowledge the source of the Information
