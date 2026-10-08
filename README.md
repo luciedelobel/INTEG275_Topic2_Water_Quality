@@ -1,4 +1,4 @@
-# INTEG 275 — Final AI-for-Science Challenge: {TOPIC NAME}
+# INTEG 275 — Final AI-for-Science Challenge: Water Quality
 
 This repository is the starting point for your group's final project.
 Unlike the warm-up exercise, there is no single correct answer here.
@@ -12,7 +12,7 @@ working routine.
 ## What's in this repository
 
 ```
-{your topic's CSV data file(s)}  the dataset (see "About the data")
+water_quality_site_summary.csv   the dataset (see "About the data")
 AGENTS.md                        instructions Copilot reads automatically
 ANALYSIS_LOG.md                  your group's shared record of decisions
                                  and results — you will edit this often
@@ -222,12 +222,17 @@ Keep the repository **Private**. Do not share it with other groups.
 
 ## About the data
 
-{Replace this section for each topic.}
-
-- **Dataset:**
-- **Source and link:**
-- **Collected by / citation:**
+- **Dataset:** filtered extract (water_quality_site_summary.csv) from
+  Environment and Climate Change Canada's National Long-term Water
+  Quality Monitoring Data
+- **Source and link:** "Saint Lawrence River Basin"
+  https://data-donnees.az.ec.gc.ca/data/substances/monitor/national-long-term-water-quality-monitoring-data/?lang=en
+- **Collected by / citation:** Environment and Climate Change Canada
+  Collected and filtered on 2026/09/23
 - **Licence or terms of use:**
+  Open Government Licence - Canada: Acknowledge the source of the Information
+  by including any attribution statement specified by the Information Provider(s)
+  and, where possible, provide a link to this licence.
 
 The data files in this repository are a fixed copy provided for this
 course. Do not download replacement data and do not edit the data files.
